@@ -3,7 +3,7 @@
     object-fit: contain;
 }
 
-.header{
+/* .header{
     display: flex;
     padding: 5px 20px;
     justify-content: space-between;
@@ -13,7 +13,7 @@
     top: 0;
     box-shadow: 1px 1px 9px 2px #ccc;
     
-}
+} */
 
 .header__option__active{
     border-bottom: 4px solid #2e81f4;
